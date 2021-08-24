@@ -61,7 +61,6 @@
             <v-col cols="12" md="6">
               <v-text-field
                 v-model="total"
-                v-currency
                 outlined
                 readonly
                 label="Valor da corrida (R$)"

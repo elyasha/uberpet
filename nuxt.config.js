@@ -25,9 +25,6 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    '@/plugins/currency.js',
-    '@/plugins/time.js',
-    '@/plugins/distance.js',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
