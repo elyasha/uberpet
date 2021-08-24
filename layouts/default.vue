@@ -7,7 +7,7 @@
       :absolute="!fixed"
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; Matheus Elyasha Lopes {{ new Date().getFullYear() }}</span>
     </v-footer>
   </v-app>
 </template>
